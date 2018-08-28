@@ -1,0 +1,21 @@
+.form1{
+	margin: 0 auto;
+	background-color: red;
+	width: 200px;
+	height: 200px;
+}
+.tf1{
+	width: 100px;
+	height: 30px;
+	background-color: #fff;
+	margin: 5px 0px 0px 5px;
+}
+.input{
+	width: 120px;
+	background-color: #cecece;s
+	margin: 0 auto;
+}
+.ok{
+	width: 70px;
+	margin: 10px 0px 0px 60px;
+}
